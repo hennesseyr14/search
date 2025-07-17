@@ -1,12 +1,10 @@
-form {
-    text-align: center;
-
-}
-
 input {
-    border-radius: 25px;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
 }
 
 a {
-    float: right;
+    display: block;
+    text-align: right;
 }
