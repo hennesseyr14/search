@@ -4,8 +4,14 @@
     margin: auto;
 }
 
-.advanced_search_form input[type="submit"] { 
-    background-color: dodgerblue;
+.advanced_search_form {
+    table, th, td {
+        border: none;
+    }
+
+    input[type="submit"] { 
+        background-color: dodgerblue;
+    }
 }
 
 .navigation_menu * {
