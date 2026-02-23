@@ -5,8 +5,8 @@
 }
 
 .advanced_search_form {
-    table, th, td {
-        border: none;
+    input {
+        border-radius: 0px;
     }
 
     input[type="submit"] { 
