@@ -1,10 +1,14 @@
-input {
+.search_form * {
     border-radius: 10px;
     display: block;
     margin: auto;
 }
 
-a {
+.advanced_search_form input[type="submit"] { 
+    background-color: dodgerblue;
+}
+
+.navigation_menu * {
     display: block;
     text-align: right;
 }
