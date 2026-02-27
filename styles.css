@@ -1,3 +1,7 @@
+body {
+    font-family: Arial;
+}
+
 .search_form * {
     border-radius: 10px;
     display: block;
@@ -11,6 +15,7 @@
 
     input[type="submit"] { 
         background-color: dodgerblue;
+        color: white;
     }
 }
 
